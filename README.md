@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viq254
 - 👀 I’m interested in server languages
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently building with react js and react native
 - 💞️ I’m looking to collaborate on an insurance crm project
 - 📫 How to reach me (email:viqsoka@gmail.com)
 
